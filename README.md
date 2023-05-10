@@ -1,6 +1,6 @@
-# proxy
+# Proxy
 
-Daftar proxy yang tersedia untuk membantu mengakses situs web & aplikasi yang mungkin diblokir oleh Pemerintah Indonesia. Proyek ini bertujuan untuk membantu pengguna yang kesulitan mengakses situs web atau aplikasi karena diblokir oleh jaringan tertentu.
+Daftar proxy yang bertujuan untuk membantu pengguna yang kesulitan mengakses situs web atau aplikasi yang diblokir oleh jaringan tertentu.
 
 ## Proxy Tersedia
 
